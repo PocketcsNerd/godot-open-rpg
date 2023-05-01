@@ -30,4 +30,4 @@ Our initial goal is to create a mini-demo with the full combat loop, character e
 
 All contributors are welcome 🙂. To ensure a smooth and a productive experience for everyone working together, we came up with some guidelines we all follow here.
 
-Check our [Contributors Guide](https://www.gdquest.com/docs/guidelines/contributing-to/gdquest-projects/) for more information 😄
+Check our [Contributors Guide](https://gdquest.gitbook.io/gdquests-guidelines/contributing-to-gdquest-projects) for more information 😄
